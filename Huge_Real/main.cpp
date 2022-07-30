@@ -1,6 +1,5 @@
 #include <iostream>
 #include <conio.h>
-#include <iostream>
 #include "BigFloat.h"
 
 int main()
